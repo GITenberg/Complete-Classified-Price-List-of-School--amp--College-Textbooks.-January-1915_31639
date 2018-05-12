@@ -1,0 +1,27 @@
+_repo: Complete-Classified-Price-List-of-School--amp--College-Textbooks.-January-1915_31639
+_version: 0.1.0
+alternative_title: Complete Classified Price List of School and College Textbooks.
+  January 1915
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: American Book Company
+    gutenberg_agent_id: '38469'
+    url: http://www.gutenberg.org/2009/agents/38469
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers'' catalogs -- United States'
+- !lcc 'Z'
+- !lcsh 'Textbooks -- Catalogs'
+title: Complete Classified Price List of School & College Textbooks. January 1915
+url: http://www.gutenberg.org/ebooks/31639
